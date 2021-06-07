@@ -1,2 +1,4 @@
 main
 go.sum
+certs/app.rsa
+certs/app.rsa.pub

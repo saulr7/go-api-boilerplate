@@ -1,3 +1,3 @@
-## BoilerPlate Golang API
+# BoilerPlate Golang API
 
-# go run main.go
+## go run main.go
